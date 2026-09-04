@@ -1,9 +1,1 @@
-World Cup Database
-
-This project is part of the freeCodeCamp Relational Database Certification.
-
-It contains:
-
-worldcup.sql — PostgreSQL database dump
-insert_data.sh — script for inserting World Cup data
-queries.sh — script for querying the database
+<h1>World Cup Database</h1> <p>This project is part of the <strong>freeCodeCamp Relational Database Certification</strong>.</p> <p>It contains:</p> <ul> <li><code>worldcup.sql</code> — PostgreSQL database dump</li> <li><code>insert_data.sh</code> — script for inserting World Cup data</li> <li><code>queries.sh</code> — script for querying the database</li> </ul>
